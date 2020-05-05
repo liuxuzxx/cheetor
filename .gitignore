@@ -1,0 +1,4 @@
+#过滤的文件
+#过滤的文件夹
+.idea/
+cmake-build-debug/
